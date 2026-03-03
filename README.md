@@ -374,6 +374,15 @@ For an example of how to set this up take a look at the **Masonry iOS Examples**
 ```
 
 ## Installation
+### Swift Package Manager
+
+In Xcode, select **File > Add Packages...** and enter:
+
+`https://github.com/SnapKit/Masonry.git`
+
+Then choose the `Masonry` library product for your target.
+
+### CocoaPods
 Use the [orsome](http://www.youtube.com/watch?v=YaIZF8uUTtk) [CocoaPods](http://github.com/CocoaPods/CocoaPods).
 
 In your Podfile
@@ -412,4 +421,3 @@ Copy the included code snippets to ``~/Library/Developer/Xcode/UserData/CodeSnip
 * Eye candy
 * Mac example project
 * More tests and examples
-
